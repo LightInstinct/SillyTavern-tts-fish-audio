@@ -1,0 +1,11 @@
+{
+  "display_name": "Fish Audio TTS",
+  "loading_order": 10,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "",
+  "author": "community",
+  "version": "1.0.1",
+  "homePage": "https://docs.fish.audio"
+}
